@@ -1,6 +1,6 @@
 import Cookies from 'js-cookie';
 
-export const domain = "http://localhost:8000";
+export const domain = "https://limitless-oasis-42014.herokuapp.com";
 export const userToken = window.localStorage.getItem("token")
 export const adminToken = window.localStorage.getItem("admin_token")
 
