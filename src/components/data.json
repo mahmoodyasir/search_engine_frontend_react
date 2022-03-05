@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "user_id": "user1",
+        "search_id": 10,
+        "search_value": "bangladesh",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:48.491740"
+    },
+    {
+        "id": 2,
+        "user_id": "user1",
+        "search_id": 121,
+        "search_value": "lebanon",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:51.720973"
+    },
+    {
+        "id": 3,
+        "user_id": "user1",
+        "search_id": 141,
+        "search_value": "albania",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:52.538949"
+    },
+    {
+        "id": 4,
+        "user_id": "user1",
+        "search_id": 10,
+        "search_value": "bangladesh",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:53.407058"
+    },
+    {
+        "id": 5,
+        "user_id": "user1",
+        "search_id": 193,
+        "search_value": "guam (usa)",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:58.299553"
+    },
+    {
+        "id": 6,
+        "user_id": "user1",
+        "search_id": 212,
+        "search_value": "american samoa (usa)",
+        "search_date": "2022-03-02",
+        "search_time": "01:07:59.986914"
+    },
+    {
+        "id": 7,
+        "user_id": "user1",
+        "search_id": 11,
+        "search_value": "russia",
+        "search_date": "2022-03-02",
+        "search_time": "01:08:09.976974"
+    },
+    {
+        "id": 8,
+        "user_id": "user1",
+        "search_id": 11,
+        "search_value": "russia",
+        "search_date": "2022-03-02",
+        "search_time": "01:08:11.494353"
+    },
+    {
+        "id": 9,
+        "user_id": "user1",
+        "search_id": 138,
+        "search_value": "uruguay",
+        "search_date": "2022-03-02",
+        "search_time": "01:08:13.736750"
+    },
+    {
+        "id": 10,
+        "user_id": "user1",
+        "search_id": 31,
+        "search_value": "ukraine",
+        "search_date": "2022-03-02",
+        "search_time": "01:08:21.466278"
+    },
+    {
+        "id": 11,
+        "user_id": "admin",
+        "search_id": 245,
+        "search_value": "pitcairn islands (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:24.375783"
+    },
+    {
+        "id": 12,
+        "user_id": "admin",
+        "search_id": 229,
+        "search_value": "anguilla (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:32.717519"
+    },
+    {
+        "id": 13,
+        "user_id": "admin",
+        "search_id": 205,
+        "search_value": "isle of man (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:37.383199"
+    },
+    {
+        "id": 14,
+        "user_id": "admin",
+        "search_id": 31,
+        "search_value": "ukraine",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:39.548242"
+    },
+    {
+        "id": 15,
+        "user_id": "admin",
+        "search_id": 10,
+        "search_value": "bangladesh",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:45.418819"
+    },
+    {
+        "id": 16,
+        "user_id": "admin",
+        "search_id": 235,
+        "search_value": "montserrat (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:11:53.873682"
+    },
+    {
+        "id": 17,
+        "user_id": "admin",
+        "search_id": 243,
+        "search_value": "vatican city",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:02.328900"
+    },
+    {
+        "id": 18,
+        "user_id": "admin",
+        "search_id": 234,
+        "search_value": "saint pierre and miquelon (france)",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:12.580235"
+    },
+    {
+        "id": 19,
+        "user_id": "admin",
+        "search_id": 189,
+        "search_value": "mayotte (france)",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:14.545196"
+    },
+    {
+        "id": 20,
+        "user_id": "user2",
+        "search_id": 229,
+        "search_value": "anguilla (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:42.481249"
+    },
+    {
+        "id": 21,
+        "user_id": "user2",
+        "search_id": 92,
+        "search_value": "belarus",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:56.106919"
+    },
+    {
+        "id": 22,
+        "user_id": "user2",
+        "search_id": 11,
+        "search_value": "russia",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:56.593042"
+    },
+    {
+        "id": 23,
+        "user_id": "user2",
+        "search_id": 163,
+        "search_value": "cyprus",
+        "search_date": "2022-03-02",
+        "search_time": "01:12:57.999261"
+    },
+    {
+        "id": 24,
+        "user_id": "user2",
+        "search_id": 207,
+        "search_value": "dominica",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:07.098848"
+    },
+    {
+        "id": 25,
+        "user_id": "user2",
+        "search_id": 236,
+        "search_value": "saint helena, ascension and tristan da cunha (uk)",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:20.135719"
+    },
+    {
+        "id": 26,
+        "user_id": "user2",
+        "search_id": 218,
+        "search_value": "saint martin (france)",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:24.059436"
+    },
+    {
+        "id": 27,
+        "user_id": "user2",
+        "search_id": 207,
+        "search_value": "dominica",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:31.570092"
+    },
+    {
+        "id": 28,
+        "user_id": "user2",
+        "search_id": 94,
+        "search_value": "azerbaijan",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:39.302855"
+    },
+    {
+        "id": 29,
+        "user_id": "user2",
+        "search_id": 141,
+        "search_value": "albania",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:40.184680"
+    },
+    {
+        "id": 30,
+        "user_id": "user2",
+        "search_id": 10,
+        "search_value": "bangladesh",
+        "search_date": "2022-03-02",
+        "search_time": "01:13:41.511710"
+    }
+]
